@@ -5,7 +5,7 @@
 ## Aritficial Intelligence
 
 * [Introduction](aritficial-intelligence/introduction/README.md)
-  * [What is AI?](aritficial-intelligence/introduction/what-is-ai.md)
+  * [1. AI คืออะไร](aritficial-intelligence/introduction/1.-ai.md)
   * [The Foundations of Artificial Intelligence](aritficial-intelligence/introduction/the-foundations-of-artificial-intelligence.md)
 * [Intelligent Agents](aritficial-intelligence/intelligent-agents.md)
 
